@@ -10,10 +10,8 @@
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../5lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestServerProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ServerMonitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RealServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RealServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +67,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734918074674</updated>
-      <workItem from="1734918075703" duration="1272000" />
+      <workItem from="1734918075703" duration="1657000" />
     </task>
     <servers />
   </component>
