@@ -2,7 +2,7 @@ import static org.junit.Assert.*;
 import org.junit.Test;
 import java.util.List;
 
-public class ServerMonitorTest {
+public class TestServerMonitor {
 
     @Test
     public void testAddObserver() {

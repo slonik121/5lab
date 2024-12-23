@@ -1,7 +1,7 @@
 import static org.junit.Assert.*;
 import org.junit.Test;
 
-public class ServerProxyTest {
+public class TestServerProxy {
 
     @Test
     public void testGetStatusWithoutCache() {

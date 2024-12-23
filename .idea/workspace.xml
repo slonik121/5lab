@@ -10,8 +10,15 @@
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../5lab.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ServerMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/5laboop.iml" beforeDir="false" afterPath="$PROJECT_DIR$/5laboop.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Admin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ServerProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ServerProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestAdmin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestAdmin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestServerMonitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestServerMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestServerProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TestServerProxy.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +46,14 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.TestAdmin.executor": "Run",
+    "JUnit.TestServer.executor": "Run",
+    "JUnit.TestServerMonitor.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
@@ -67,7 +82,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1734918074674</updated>
-      <workItem from="1734918075703" duration="1657000" />
+      <workItem from="1734918075703" duration="3256000" />
     </task>
     <servers />
   </component>
